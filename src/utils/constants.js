@@ -1,0 +1,1 @@
+export const API_HOST = 'http://ip:1337';
